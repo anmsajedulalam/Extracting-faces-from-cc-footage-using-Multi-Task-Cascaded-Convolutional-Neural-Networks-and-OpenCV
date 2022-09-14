@@ -1,6 +1,10 @@
 #Author: A. N. M. Sajedul Alam
 #Title: Extracting faces from cctv-footage using Multi-Task Cascaded Convolutional Neural Networks and OpenCV
 
+#Before importing OpenCV and MTCNN, you need to install OpenCV and MTCNN
+#For intalling OpenCV, use "pip install opencv-python"
+#For installing MTCNN, use "pip install mtcnn"
+
 import cv2
 import mtcnn
 import os
