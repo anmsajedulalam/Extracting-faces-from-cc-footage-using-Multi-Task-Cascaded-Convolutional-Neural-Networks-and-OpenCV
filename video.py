@@ -1,5 +1,5 @@
 #Author: A. N. M. Sajedul Alam
-#Title: Extracting faces from cctv-footage using MTCNN and OpenCV
+#Title: Extracting faces from cctv-footage using Multi-Task Cascaded Convolutional Neural Networks and OpenCV
 
 import cv2
 import mtcnn
@@ -10,10 +10,10 @@ vc = cv2.VideoCapture('./video.mp4')
 conf_t = 0.99
 
 try:
-    if not os.path.exists('Extracted_faces_from_cctv_footage'):
-        os.makedirs('Extracted_faces_from_cctv_footage')
+    if not os.path.exists('Extracted Faces'):
+        os.makedirs('Extracted Faces')
 except OSError:
-    print("Error: Creating directory of ", 'Extracted_faces_from_cctv_footage')
+    print("Error: Creating directory of ", 'Extracted Faces')
     
 current_frame = 0
 while vc.isOpened():
@@ -40,7 +40,7 @@ while vc.isOpened():
         ore_face = orig_frame[y1:y2, x1:x2]
         
 
-        folderName = 'Extracted_faces_from_cctv_footage'
+        folderName = 'Extracted Faces'
         if ret:
             name = folderName+'/face-'+ str(current_frame)+ '.jpg'
             print('Generating - '+ name)
