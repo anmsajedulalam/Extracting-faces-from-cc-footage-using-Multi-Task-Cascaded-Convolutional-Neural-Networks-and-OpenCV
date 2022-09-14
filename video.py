@@ -13,7 +13,7 @@ try:
     if not os.path.exists('Extracted_faces_from_cctv_footage'):
         os.makedirs('Extracted_faces_from_cctv_footage')
 except OSError:
-    print("Error: Creating directory of ", Extracted_faces_from_cctv_footage)
+    print("Error: Creating directory of ", 'Extracted_faces_from_cctv_footage')
     
 current_frame = 0
 while vc.isOpened():
