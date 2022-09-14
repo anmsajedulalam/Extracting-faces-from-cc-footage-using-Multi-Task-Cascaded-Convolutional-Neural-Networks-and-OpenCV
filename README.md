@@ -15,12 +15,12 @@ In crime activities, CCTV footage implies a great role but, in most cases, the C
 
 ### Steps:
 
-1. Intall OpenCV. For intalling OpenCV, use `pip install opencv-python`
-2. Install MTCNN. For installing MTCNN, use `pip install mtcnn`
-3. Replace the "video.mp4" file with your desired video. Keep the video file name just as it is.
-4. Now run the python script "video.py".
+1. Intall OpenCV. For intalling OpenCV, use `pip install opencv-python`.
+2. Install MTCNN. For installing MTCNN, use `pip install mtcnn`.
+3. Replace the `video.mp4` file with your desired video. Keep the video file name just as it is.
+4. Now run the python script `video.py`.
 5. It will pop up a processing named window for capturing the faces.
-6. The faces will be saved as JPG files in the folder named "Extracted Faces".
+6. The faces will be saved as JPG files in the folder named `Extracted Faces`.
 
 ## Source of the video in this project:
 
