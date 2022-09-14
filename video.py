@@ -1,5 +1,5 @@
 #Author: A. N. M. Sajedul Alam
-#Title: Extracting faces from cctv-footage using CNN and OpenCV
+#Title: Extracting faces from cctv-footage using MTCNN and OpenCV
 
 import cv2
 import mtcnn
