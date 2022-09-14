@@ -1,1 +1,4 @@
-# Extracting-faces-from-cc-footage-using-Multi-Task-Cascaded-Convolutional-Neural-Networks-and-OpenCV
+# Extract_Faces_from_video
+Detect faces and then extract faces from video file
+
+Run python video.py
