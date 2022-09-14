@@ -1,8 +1,3 @@
-# Extract_Faces_from_video
-Detect faces and then extract faces from video file
-
-Run python video.py
-
 # Extracting faces from cctv footage using Multi Task Cascaded Convolutional Neural Networks and OpenCV
 
 In crime activities, CCTV footage implies a great role but, in most cases, the CCTV footages are too blurry and not clear enough to identify the criminals. This is why it is much important to detect specific faces from low-resolution CCTV footage, where there can be low light, Multi-Task Cascaded Convolutional Neural Networks can be used to extract criminal faces in those situations.
@@ -22,3 +17,7 @@ In crime activities, CCTV footage implies a great role but, in most cases, the C
 4. Now run the python script "video.py".
 5. It will pop up a processing named window for capturing the faces.
 6. The faces will be saved as JPG files in the folder named "Extracted Faces".
+
+## Source of the video in this project:
+
+https://www.youtube.com/watch?v=b3C18k7vAP8&t=4s
