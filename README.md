@@ -25,3 +25,15 @@ In crime activities, CCTV footage implies a great role but, in most cases, the C
 ## Source of the video in this project:
 
 https://www.youtube.com/watch?v=b3C18k7vAP8
+
+### Story of this cctv footage:
+
+Abrar Fahad (12 February 1998 - 7 October 2019), a second-year student of electrical and electronic engineering, was tortured and then killed by BUET's Chhatra League leaders. An autopsy stated that Fahad was beaten to death by a blunt object.
+
+### References:
+
+1. BUET student abrar murder verdict: 20 students get death. (2022). Retrieved 17 September 2022, from https://www.thedailystar.net/news/bangladesh/crime-justice/news/buet-student-abrar-murder-verdict-20-students-get-death-2913011
+
+2. N. Zhang, J. Luo and W. Gao, "Research on Face Detection Technology Based on MTCNN," 2020 International Conference on Computer Network, Electronic and Automation (ICCNEA), 2020, pp. 154-158, doi: 10.1109/ICCNEA50255.2020.00040.
+
+3. I. Culjak, D. Abram, T. Pribanic, H. Dzapo and M. Cifrek, "A brief introduction to OpenCV," 2012 Proceedings of the 35th International Convention MIPRO, 2012, pp. 1725-1730.
