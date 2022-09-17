@@ -26,9 +26,9 @@ In crime activities, CCTV footage implies a great role but, in most cases, the C
 
 https://www.youtube.com/watch?v=b3C18k7vAP8
 
-### Story of this cctv footage:
+### Background Story of this cctv footage:
 
-Abrar Fahad (12 February 1998 - 7 October 2019), a second-year student of electrical and electronic engineering, was tortured and then killed by BUET's Chhatra League leaders. An autopsy stated that Fahad was beaten to death by a blunt object.
+The leaders of the Chhatra League at BUET tortured and eventually assassinated Abrar Fahad, a second-year electrical and electronic engineering student (12 February 1998 – 7 October 2019). Fahad was battered to death with a blunt object, according to an autopsy.
 
 ### References:
 
